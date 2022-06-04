@@ -12,8 +12,10 @@
         <thead>
             <tr>
                 <th>NO</th>
+                <th>Nama</th>
                 <th>NIDN</th>
                 <th>Pendidikan</th>
+                <th>Keterangan</th>
             </tr>
         </thead>
         <tbody>
